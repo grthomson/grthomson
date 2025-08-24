@@ -1,4 +1,4 @@
-## Hello, World! 👋
+## Hello! 👋
 
 <!-- Top Langs (centered) -->
 <p align="center">
