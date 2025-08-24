@@ -40,7 +40,7 @@
 </table>
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/7df0bd42774743.57ee5f32bd76e.gif" width="125" alt="Ferris the Rust crab" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/7df0bd42774743.57ee5f32bd76e.gif" width="145" alt="Ferris the Rust crab" />
 </p>
 
 <!--
