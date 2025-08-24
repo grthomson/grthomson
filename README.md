@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grthomson&layout=compact&exclude_repo=pyth-data-sci-intro,real-number-game,thesisproofs,nonmonlogics&hide=TeX,Dockerfile,Makefile&include_private=true)
+
 <!--
 **grthomson/grthomson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
