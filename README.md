@@ -17,7 +17,7 @@
     </td>
     <td align="center" width="112" style="border:none;">
       <br />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="64" height="64" alt="Apache Spark" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="70" height="70" alt="Apache Spark" />
       <div style="margin-top:6px; font-size:12px;">Spark</div>
     </td>
     <td align="center" width="112" style="border:none;">
@@ -40,7 +40,7 @@
 </table>
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/7df0bd42774743.57ee5f32bd76e.gif" width="500" alt="Ferris the Rust crab" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/7df0bd42774743.57ee5f32bd76e.gif" width="400" alt="Ferris the Rust crab" />
 </p>
 
 <!--
