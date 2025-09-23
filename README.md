@@ -43,6 +43,13 @@
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/7df0bd42774743.57ee5f32bd76e.gif" width="145" alt="Ferris the Rust crab" />
 </p>
 
+<small> About me: </small>
+
+- ☕︎‧₊˚⏱٠࣪⋆💻₊˚ᵎ For work I research and implement statistical methods within big data pipelines.
+- 🌱🐧📦☁️ I am learning DevOps with [KodeKloud](https://kodekloud.com) and using GitHub and [DockerHub](https://hub.docker.com/repositories/grthomson).
+- 🔭🧮🤖 I started with [Lean](https://github.com/leanprover) in 2018 and hope to get back to this, especially for software verification.
+- ∞✨🍩 I like Hopf Algebras and formal semantics and hope to reconcile the two - recently excited to find [this paper](https://arxiv.org/abs/2306.10270).
+- 🧠⚠️ I am building a [second brain](https://github.com/grthomson/math-phys-lang-notes/) with [Obsidian](https://obsidian.md/) and hope to get it running online soon.
 <!--
 **grthomson/grthomson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
