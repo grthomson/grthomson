@@ -3,7 +3,7 @@
 <!-- Top Langs (centered) -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=grthomson&layout=compact&exclude_repo=pyth-data-sci-intro,real-number-game,thesisproofs,nonmonlogics,random-bookmark-extension&hide=TeX,Dockerfile,Makefile&include_private=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=grthomson&layout=compact&exclude_repo=pyth-data-sci-intro,real-number-game,thesisproofs,nonmonlogics,random-bookmark-extension&hide=TeX,Dockerfile,Makefile,R&include_private=true&theme=transparent"
     alt="Top Langs"
   />
 </p>
