@@ -46,9 +46,9 @@ About me: </p>
   
 ☕︎‧₊˚⏱٠࣪⋆💻₊˚ᵎ For work I research and implement statistical methods in big data pipelines.</sub><br><br>
 🌱🐧📦☁️ I am learning DevOps using [KodeKloud](https://kodekloud.com), GitHub's CI/CD tools and [DockerHub](https://hub.docker.com/repositories/grthomson).<br><br>
-🔭🧮🤖 I started with [Lean](https://github.com/leanprover) in 2018 and hope to get back to it, especially for software verification.<br><br>
+🔭🧮🤖 I started with [Lean](https://github.com/leanprover) in 2018 and hope to do more, especially software verification.<br><br>
 ∞✨🍩 I like Hopf Algebras and formal semantics and I try to reconcile the two — recently excited to find [this paper](https://arxiv.org/abs/2306.10270).<br><br>
-🧠⚡ I am building a [second brain](https://github.com/grthomson/math-phys-lang-notes/) with [Obsidian](https://obsidian.md/) and am planning on getting it running online soon.
+🧠⚠️ I am building a [second brain](https://github.com/grthomson/math-phys-lang-notes/) with [Obsidian](https://obsidian.md/) and am planning on getting it running online soon.
 </div>
 <br>
 <p align="center">
