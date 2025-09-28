@@ -37,7 +37,7 @@
       <div style="margin-top:6px; font-size:12px;">C</div>
     </td>
     <td align="center" width="112" style="border:none;">
-      <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="56" height="56" alt="Rust" />
+      <img src="https://raw.githubusercontent.com/grthomson/grthomson/refs/heads/main/RustLogo.webp" width="56" height="56" alt="Rust" />
       <div style="margin-top:6px; font-size:12px;">Rust</div>
     </td>
   </tr>
