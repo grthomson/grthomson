@@ -52,7 +52,7 @@ About me: </p>
 🌱🐧📦☁️ I am learning DevOps using [KodeKloud](https://kodekloud.com), GitHub's CI/CD tools and [DockerHub](https://hub.docker.com/repositories/grthomson).<br><br>
 🔭🧮🤖 I started with [Lean](https://github.com/leanprover) in 2018 and hope to do more, especially software verification.<br><br>
 ∞✨🍩 I like [Hopf Algebras](https://github.com/grthomson/math-phys-lang-notes/blob/main/maths/hopf_algebras.pdf) and formal semantics and I try to reconcile the two — recently excited to find [this paper](https://arxiv.org/abs/2306.10270). 
-<br>Currently working on implementing the [Loday-Ronco Hopf Algebra](https://pi.math.cornell.edu/~maguiar/Loday.pdf) on binary treees in Lean. <br><br>
+<br>Currently working on defining the [Loday-Ronco Hopf Algebra](https://pi.math.cornell.edu/~maguiar/Loday.pdf) on binary trees in Lean. <br><br>
 🧠⚠️ I am building a [second brain](https://github.com/grthomson/math-phys-lang-notes) with [Obsidian](https://obsidian.md/) and have a plan to get it running online.
 </div>
 <br><br>
