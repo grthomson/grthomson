@@ -3,9 +3,11 @@
 <!-- Top Langs (centered) -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=grthomson&layout=compact&exclude_repo=pyth-data-sci-intro,real-number-game,thesisproofs,nonmonlogics,random-bookmark-extension&hide=TeX,Dockerfile,Makefile,R&include_private=true&theme=transparent"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=grthomson&layout=compact&exclude_repo=pyth-data-sci-intro,real-number-game,thesisproofs,nonmonlogics,random-bookmark-extension&hide=TeX,Dockerfile,Makefile,R&include_private=true&theme=transparent"
     alt="Top Langs"
   />
+ <!-- [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005)](https://github.com/Pranesh-2005/github-readme-stats) -->
+
   <br>
   <sub>
     <a href="https://github.com/anuraghazra/github-readme-stats">(github-readme-stats)</a>
